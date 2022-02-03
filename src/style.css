@@ -1,3 +1,7 @@
 h1 {
   color: aquamarine;
 }
+
+li {
+  text-decoration: none;
+}
